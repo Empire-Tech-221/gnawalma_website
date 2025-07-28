@@ -57,7 +57,7 @@ Description: Niotech - App Landing HTML Template <
   --body: #fff;
   --black: #000;
   --white: #fff;
-  --theme: #7444FD;
+  --theme: #2baab7;
   --theme2: #F9F3EF;
   --theme3: #FAF8FF;
   --title: #282C32;
@@ -2616,7 +2616,7 @@ input[type=radio]:checked ~ label::before {
   align-items: center;
   gap: 10px;
   border-radius: 100px;
-  background: rgba(116, 68, 253, 0.15);
+  background: #20aeb60d;
   color: var(--theme);
   font-family: "Urbanist", sans-serif;
   font-size: 16px;
@@ -5773,7 +5773,8 @@ input.main-search-input::placeholder {
 .intro-wrapper.style1 {
   position: relative;
   border-radius: 50px;
-  background: rgba(116, 68, 253, 0.06);
+  /* background: rgba(116, 68, 253, 0.06); */
+  background: #20aeb60d;
   margin-top: 40px;
 }
 @media (max-width: 767px) {
@@ -5833,7 +5834,7 @@ input.main-search-input::placeholder {
   align-items: center;
   gap: 10px;
   border-radius: 30px;
-  background: rgba(116, 68, 253, 0.15);
+  background: #20aeb60d;
   backdrop-filter: blur(2px);
   color: var(--theme);
   font-family: "Urbanist", sans-serif;
@@ -5861,7 +5862,7 @@ input.main-search-input::placeholder {
 .intro-wrapper.style1 .intro-content .intro-section-title .intro-title {
   color: var(--title);
   font-family: "Urbanist", sans-serif;
-  font-size: 64px;
+  font-size: 45px;
   font-style: normal;
   font-weight: 700;
   line-height: 80px;
@@ -6463,7 +6464,7 @@ input.main-search-input::placeholder {
   align-items: center;
   gap: 10px;
   border-radius: 100px;
-  background: rgba(116, 68, 253, 0.15);
+  background: #20aeb60d;
   margin-bottom: 10px;
 }
 .work-process-box.style1 .title {
